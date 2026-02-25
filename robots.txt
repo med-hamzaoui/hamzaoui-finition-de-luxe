@@ -1,0 +1,11 @@
+# Robots.txt - Hamzaoui Finition
+# https://med-hamzaoui.github.io/hamzaoui-finition-de-luxe/
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://med-hamzaoui.github.io/hamzaoui-finition-de-luxe/sitemap.xml
+
+# Crawl-delay (optional, for politeness)
+Crawl-delay: 1
